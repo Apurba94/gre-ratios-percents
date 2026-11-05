@@ -1,0 +1,1 @@
+window.SK_META = {"name": "gre-ratios-percents", "title": "Ratios and Percents", "exam": "GRE", "area": "GRE Quant", "desc": "Ratios, proportions, percent change and successive percents, the most common GRE arithmetic.", "content": [], "n": 33};
